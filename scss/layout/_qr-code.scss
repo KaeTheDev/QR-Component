@@ -1,0 +1,31 @@
+.qr-card {
+    background-color: $white-hex; 
+    padding: 1.5rem;
+    border-radius: 1.25rem;  
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    width: 320px;
+    height: 499px;
+    text-align: center; 
+    padding: 1rem;
+  }
+  
+  .qr-card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: $spacing-300; 
+  }
+  
+  .qr-code-img {
+    width: 288px;
+    height: 288px;
+    border-radius: 0.625rem;
+  }
+
+  .qr-code-text {
+    display: flex;
+    flex-direction: column;
+    gap: $spacing-200; 
+    max-width: 16.25rem;
+  }
+  

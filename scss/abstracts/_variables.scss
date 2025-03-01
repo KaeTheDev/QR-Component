@@ -1,0 +1,30 @@
+// HEX COLORS
+$white-hex: #ffffff;
+$slate-300-hex: #d5e1ef;
+$slate-500-hex: #68778d;
+$slate-900-hex: #1f314f;
+
+// RGB COLORS
+$white-rgb: rbb(255, 255, 255);
+$slate-300-rgb: rgb(213, 225, 239);
+$slate-500-rgb: rgb(104, 119, 141);
+$slate-900-rgb: rgb(31, 49, 79);
+
+
+// HSL COLORS
+$white-hsl: hsl(0, 0%, 100%);
+$slate-300-hsl: hsl(212, 45%, 89%);
+$slate-500-hsl: hsl(216, 15%, 48%);
+$slate-900-hsl: hsl(218, 44%, 22%);
+
+// Font Sizes
+$font-size-body: 0.938rem;
+
+// Font Family
+$font-family-primary: "Outfit", sans-serif;
+
+
+// Spacing Variables
+$spacing-500: 2.5rem;
+$spacing-300: 1.5rem;
+$spacing-200: 1rem;
